@@ -18,9 +18,3 @@ public class Main {
         System.out.println("Колличество слов в предлжений: " + count);
     }
 }
-
-/*String[] countOfWords = scanner.nextLine().split(" ");
-        for (int i = 0; i < countOfWords.length; i++) {
-            count += i;
-        }
-        System.out.println("Колличество слов в предлжений: " + count);*/
